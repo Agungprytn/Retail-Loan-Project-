@@ -1,0 +1,45 @@
+
+Retail Loan - Sales Performance 
+IEDW_RT_LNB_BASE
+-ADST_LNB_BASE   
+-ACOM_CONT_BASE  
+-ADST_LNB_APPCBASE
+
+
+Retail Loan - Sales Performance (Channel)
+IEDW_RT_LNB_BASE
+-ADST_LNB_BASE   
+-ACOM_CONT_BASE  
+-ADST_LNB_APPCBASE
+
+Retail Loan - Pre Screen 
+IEDW_RT_LNB_APPL
+-ADST_LNB_APPCBASE 
+-ADST_LNB_BASE     
+
+
+Retail Loan - Reject Reason
+IEDW_RT_LNB_RJCT
+-ADST_LNB_APPCBASE
+-ADST_LNB_RJCTMNG 
+
+
+Retail Loan - Sales (monthly)
+IEDW_RT_LNB_BASE
+-ADST_LNB_BASE   
+-ACOM_CONT_BASE  
+-ADST_LNB_APPCBASE
+
+Retail Loan - Balance (Remaining Balance)
+IEDW_RT_LNB_BASE 
+-ADST_LNB_BASE   
+-ACOM_CONT_BASE  
+-ADST_LNB_APPCBASE
+
+IEDW_MART_LNB_RTLDPDS
+-ADST_LNB_SCH 
+-ADST_LNB_BASE
+-ADST_DPB_BASE
+-ADST_DPB_LNIF
+
+
